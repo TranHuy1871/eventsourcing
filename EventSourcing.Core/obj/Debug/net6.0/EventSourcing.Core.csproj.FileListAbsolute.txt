@@ -1,0 +1,12 @@
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\bin\Debug\net6.0\EventSourcing.Core.deps.json
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\bin\Debug\net6.0\EventSourcing.Core.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\bin\Debug\net6.0\EventSourcing.Core.pdb
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.csproj.AssemblyReference.cache
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.AssemblyInfoInputs.cache
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.AssemblyInfo.cs
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.csproj.CoreCompileInputs.cache
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\refint\EventSourcing.Core.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\EventSourcing.Core.pdb
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Core\obj\Debug\net6.0\ref\EventSourcing.Core.dll

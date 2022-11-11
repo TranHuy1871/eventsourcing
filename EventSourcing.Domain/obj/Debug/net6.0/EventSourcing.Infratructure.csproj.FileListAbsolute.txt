@@ -1,0 +1,15 @@
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.csproj.AssemblyReference.cache
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.AssemblyInfoInputs.cache
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.AssemblyInfo.cs
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.csproj.CoreCompileInputs.cache
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\bin\Debug\net6.0\EventSourcing.Infratructure.deps.json
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\bin\Debug\net6.0\EventSourcing.Infratructure.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\bin\Debug\net6.0\EventSourcing.Infratructure.pdb
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\bin\Debug\net6.0\EventSourcing.Core.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\bin\Debug\net6.0\EventSourcing.Core.pdb
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.csproj.CopyComplete
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\refint\EventSourcing.Infratructure.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\EventSourcing.Infratructure.pdb
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.Domain\obj\Debug\net6.0\ref\EventSourcing.Infratructure.dll

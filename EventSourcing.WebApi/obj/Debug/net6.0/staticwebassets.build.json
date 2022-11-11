@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gK6jRNMJnzEqM+CtP0zMDjOx6g1enxrc+f9R+0mHhS4=",
+  "Source": "EventSourcing.WebApi",
+  "BasePath": "_content/EventSourcing.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
