@@ -1,6 +1,9 @@
 ﻿using EventSourcing.Infratructure.Repository;
+using EventSourcing.Core.Aggregate;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Threading.Tasks;
 
 namespace EventSourcing.WebApi.Controllers
 {
@@ -15,9 +18,13 @@ namespace EventSourcing.WebApi.Controllers
             _repository = repository;
         }
 
-        public Task<IActionResult> Create(Guid id, )
+        [HttpPost]
+        public async Task<IActionResult> Create(Guid id, [FromForm] string title, string createby)
         {
+            var aggregate = await _repository.LoadAsync<Core.Aggregate.Task>(id);
+            aggregate.Create(id, title, createby);
 
+            return Ok();
         }
     }
 }

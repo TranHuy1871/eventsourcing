@@ -35,3 +35,6 @@ E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\obj\Deb
 E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\obj\Debug\net6.0\EventSourcing.WebApi.pdb
 E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\obj\Debug\net6.0\EventSourcing.WebApi.genruntimeconfig.cache
 E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\obj\Debug\net6.0\ref\EventSourcing.WebApi.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TranQuangHuyE\EventSourcing\EventSourcing.WebApi\EventSourcing.WebApi\obj\Debug\net6.0\EventSourcing.WebApi.MvcApplicationPartsAssemblyInfo.cs
